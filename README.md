@@ -27,9 +27,9 @@ With over **25+ years of experience** in business and technology, I focus on bui
 ### 🛠 Tech Stack & Ecosystem
 
 ```text
-  Cloud & Infra  : Kubernetes | AWS | GCP | Hybrid-Cloud | Terraform | ArgoCD
-  Security & Governance : Cloud Native Security | FinTech Compliance | IAM | OIDC/OAUTH | MPC Wallet
-  Observability  : Datadog | Prometheus | Grafana | OpenTelemetry
-  Dev & Scripting: Go | PowerShell | Bash | TypeScript
-  Data Intelligent: Kafka | RedPanda | ClickHouse | ByteBase | PeerDB
-  Emerging Tech: Blockchain | Web3 | Agentic Engineering | LLM | AiOps | PQC
+  - Cloud & Infra  : Kubernetes | AWS | GCP | Hybrid-Cloud | Terraform | ArgoCD
+  - Security & Governance : Cloud Native Security | FinTech Compliance | IAM | OIDC/OAUTH | MPC Wallet
+  - Observability  : Datadog | Prometheus | Grafana | OpenTelemetry
+  - Dev & Scripting: Go | PowerShell | Bash | TypeScript
+  - Data Intelligent: Kafka | RedPanda | ClickHouse | ByteBase | PeerDB
+  - Emerging Tech: Blockchain | Web3 | Agentic Engineering | LLM | AiOps | PQC
